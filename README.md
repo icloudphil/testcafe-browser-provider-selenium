@@ -13,6 +13,8 @@ npm install testcafe-browser-provider-selenium
 
 A Selenium Server up and running, either as standalone or in a grid. Check out the Selenium's [Docker images](https://github.com/SeleniumHQ/docker-selenium) for an easy way to get started with setting up a grid.
 
+Try use the latest build to test locally.
+
 ## Usage
 
 If you run tests from the command line, use the browser alias when specifying browsers. The '-c 2' parameter will split the tests up and run them across two browsers concurrently. Omit this if it is not needed.
