@@ -1,6 +1,6 @@
 {
-  "name": "testcafe-browser-provider-selenium-with-selenium",
-  "version": "10.0.1",
+  "name": "testcafe-browser-provider-selenium-fork",
+  "version": "10.0.2",
   "description": "Selenium TestCafe browser provider plugin.",
   "repository": "https://github.com/icloudphil/testcafe-browser-provider-selenium",
   "homepage": "https://github.com/icloudphil/testcafe-browser-provider-selenium",
